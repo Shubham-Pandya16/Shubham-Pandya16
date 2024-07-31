@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubham-pandya16" alt="shubham-pandya16" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/shubham16pandya" target="blank"><img src="https://img.shields.io/twitter/follow/shubham16pandya?logo=twitter&style=for-the-badge" alt="shubham16pandya" /></a> </p>
-
 - 🔭 I’m currently working on **A Live News Application**
 
 - 🌱 I’m currently learning **Flutter, Data Analytics**
